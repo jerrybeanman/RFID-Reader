@@ -1,0 +1,4 @@
+#define IDM_CONNECT		101
+#define IDM_DISCONNECT	102
+#define IDM_HELP		103
+#define IDM_CLEAR		104

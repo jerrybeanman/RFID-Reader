@@ -1,0 +1,12 @@
+#include "menu.h"
+
+MYMENU MENU
+{
+
+	MENUITEM "&Connect",	IDM_CONNECT
+	MENUITEM "&Disconnect", IDM_DISCONNECT
+	MENUITEM "&Clear",		IDM_CLEAR
+	MENUITEM "&Help",		IDM_HELP
+
+}
+}

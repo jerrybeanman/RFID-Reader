@@ -1,0 +1,10 @@
+User guide for RFID Reader.
+
+To use:
+1) Ensure that your RFID reader is connected to a supported USB port.
+2) Click the connect button at the top of the program.
+3) Wait for the confirmation that you have been connected.
+4) Once connected:
+	a) Place a tag over the RFID reader to allow the program to read
+	   the tag.
+5) Click disconnect when you are done reading RFID tags.
